@@ -1,0 +1,16 @@
+linters:
+  enable-all: true
+  disable:
+    - cyclop
+    - dupl
+    - exhaustivestruct
+    - funlen
+    - gochecknoglobals
+    - gocognit
+    - gofumpt
+    - ireturn
+    - lll
+    - maligned
+    - nestif
+    - revive
+    - varnamelen
